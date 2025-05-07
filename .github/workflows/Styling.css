@@ -1,0 +1,21 @@
+
+                    .vfrc-button._1q15b0b0.c26d8x0._1q15b0b2._1q15b0b4 {  
+                    text-indent: -9999px; 
+                    overflow: hidden;
+                  }
+                  .vfrc-button._1q15b0b0.c26d8x0._1q15b0b2._1q15b0b4::before {  
+                    content: "Neuen Chat starten";
+                    display: block;
+                    text-indent: 0;
+                  }
+            
+                  .vfrc-button._1q15b0b0.c26d8x0._1q15b0b3._1q15b0b4{   
+                    text-indent: -9999px; 
+                    overflow: hidden;
+                  }
+                  .vfrc-button._1q15b0b0.c26d8x0._1q15b0b3._1q15b0b4::before{   
+                    content: "Abbrechen";
+                    display: block;
+                    text-indent: 0;
+                  }
+
