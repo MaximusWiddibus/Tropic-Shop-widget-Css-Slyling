@@ -1,360 +1,219 @@
 [
   {
-    id: 2314,
-    title: 'Pro-Active  effektive Unterstützung für den Bewegungsapparat Hund & Katze',
-    link: 'https://www.tropic-shop.de/pro-active-effektive-unterstuetzung-fuer-den-bewegungsapparat-hund-katze.html',
-    image_link: 'https://www.tropic-shop.de/images/products/733309293100.png',
-    price: 13.99,
-    sale_price: null,
-    df_baseprice: 'ab 139,90 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 2314,
-    group_leader: true,
-    description: '<p>NEKTON-Pro-Active beinhaltet hochwertige, nat&uuml;rliche Inhaltstoffe wie Glucosamin, Chondroitin sowie dem Baustein MSM.</p>\r\n' +
-      '<p>NEKTON-Pro-Active dient&nbsp; zur F&ouml;rderung von Struktur, Funktion und Festigkeit des Gelenkknorpels. F&uuml;r aktive Tiere in halber Dosierung t&auml;glich als Vorbeugung und zur Gesunderhaltung.&nbsp;<br />Bereits erkrankte Tiere ( z.B. Arthrose ) erhalten zur Verbesserung des Zustandes t&auml;glich eine erh&ouml;hte Dosis.</p>\r\n' +
-      '<p>Alle Gelenke des Tieres werden gesch&uuml;tzt, unterst&uuml;tzt und mobilisiert. NEKTON-Pro-Active entfaltet seine volle Wirksamkeit nach einer ununterbrochenen Anwendung von ca. 14 Tagen.</p>\r\n' +
-      '<h4>WEITERF&Uuml;HRENDE INFORMATIONEN</h4>\r\n' +
-      '<p>In der heutigen Zeit sind unsere Hunde und Katzen anderen Belastungen ausgesetzt wie in der Natur. Wohnungshaltung, nicht artgerechte Ern&auml;hrung, Bewegungsmangel und fragw&uuml;rdige Zuchtziele beg&uuml;nstigen nachweislich zahlreiche Erkrankungen des Bewegungsapparates.</p>\r\n' +
-      '<p>Bereits bei der Aufzucht von Hunde- und Katzenwelpen kann durch geeignete Ern&auml;hrung bzw. durch die ma&szlig;volle Zugabe von Vitamin- und Mineralstoffpr&auml;paraten (NEKTON-Dog-VM / NEKTON-Cat-VM ) der Grundstein f&uuml;r einen gesunden Aufbau des Skeletts beim Jungtier gelegt werden.<br />Jedoch auch gut ern&auml;hrte Tiere k&ouml;nnen durch vererbte Veranlagungen, Unf&auml;lle mit starken Traumata oder &uuml;berm&auml;&szlig;ige Belastung am Bewegungsapparat erkranken. Hier unterst&uuml;tzt&nbsp; NEKTON-Pro-Active mit seinen hochwirksamen Inhaltsstoffen die Gelenke des Tieres um den Alltag m&ouml;glichst ohne Schmerzmittel&nbsp; zu erleben.</p>\r\n' +
-      '<p>Die Kombination der Gelenkbausteine Glucosamin, Chondroitin und MSM ist seit langem in der Behandlung von Gelenksbeschwerden bei Menschen sehr erfolgreich und l&auml;sst sich auf das Tier &uuml;bertragen. Gesunde Hunde und Katzen profitieren, gerade ab der Lebensmitte, von einer vorbeugenden Unterst&uuml;tzung durch NEKTON-Pro-Active damit schwerwiegende Sch&auml;digungen erst gar nicht auftreten m&uuml;ssen.</p>\r\n' +
-      '<p>Damit Tiere und Halter miteinander ein fr&ouml;hliches und agiles Leben f&uuml;hren k&ouml;nnen. NEKTON-Pro-Active ist kein Medikament und f&uuml;r eine langfristige Gabe bestens geeignet.</p>\r\n' +
-      '<p><strong>F&uuml;tterungs Empfehlung</strong></p>\r\n' +
-      '<p>Nach K&ouml;rpergewicht zur Vorbeugung t&auml;glich:<br />Tiere bis 4 kg&nbsp;&gt; 0,5 g NEKTON-Pro-Active,<br />Tiere 4-8 kg&nbsp;&gt; 1g NEKTON-Pro-Active,<br />Tiere 8-24 kg&nbsp;&gt; 3 g NEKTON-Pro-Active,<br />Tiere ab 24 kg &gt; 4 g NEKTON-Pro-Active.</p>\r\n' +
-      '<p>Bei bereits erkrankten Tieren sollte die t&auml;gliche Dosis verdoppelt werden.&nbsp;</p>\r\n' +
-      '<p>Ein gestrichener Messl&ouml;ffel (inliegend) entspricht 1 g NEKTON-Pro-Active.</p>\r\n' +
-      '<p>Empfehlung: Desinfizieren Sie Trinkgef&auml;&szlig;e und Futterbeh&auml;lter t&auml;glich mit NEKTON-Desi-Plus um eine hygienisch einwandfreie F&uuml;tterung zu gew&auml;hrleisten!</p>\r\n' +
-      '<p>Lagerung: NEKTON-Pro-Active sollte trocken ohne Sonneneinstrahlung, zwischen 15&deg; und 25&deg;C, gelagert werden.<br />NICHT IM K&Uuml;HLSCHRANK LAGERN !!!</p>\r\n' +
-      '<p>&nbsp;</p>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 2317,
-    title: 'Keep-Cool Spezialpräparat auf natürlicher Basis für nervöse, ängstliche und aggressive Hunde & Katzen',
-    link: 'https://www.tropic-shop.de/keep-cool-spezialpraeparat-auf-natuerlicher-basis-fuer-nervoese-aengstliche-und-aggressive-hunde-katzen.html',
-    image_link: 'https://www.tropic-shop.de/images/products/733309292257.0.jpg',
-    price: 9.49,
-    sale_price: null,
-    df_baseprice: 'ab 94,90 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 2317,
-    group_leader: true,
-    description: '<p>Diese innovative Neuentwicklung sorgt mittels einer gelungen Kombination aus nat&uuml;rlichen Bestandteilen wie Kamille, Ingwer und Hopfen sowie B-Vitaminen und der Aminos&auml;ure L-Tryptophan f&uuml;r Ruhe und Entspannung bei Hund und Katze.</p>\r\n' +
-      '<p>Die hochwertigen Inhaltsstoffe unterst&uuml;tzen die Produktion von Serotonin im Gehirn und dienen als Stimmungs-Aufheller. NEKTON-Keep-Cool unterst&uuml;tzt Hunde und Katze bei nerv&ouml;ser Unruhe, sowie in Angst-und Stress-Situationen die Ruhe zu bewahren.</p>\r\n' +
-      '<p>Ziel ist es, den Tieren das Erleben positiver Lernerfahrungen in stressigen Situationen zu erm&ouml;glichen.<br />NEKTON-Keep-Cool entfaltet seine volle Wirkung nach einer dauerhaften Gabe von ca. 4 Wochen und ist, je nach Bedarf, sehr gut f&uuml;r eine l&auml;ngerfristige Gabe geeignet um die positiven Erfahrungen des Tieres zu festigen.&nbsp;</p>\r\n' +
-      '<p>NEKTON-Keep-Cool ist kein Medikament und ver&auml;ndert nicht die Pers&ouml;nlichkeit des Tieres!</p>\r\n' +
-      '<p>Weiterf&uuml;hrende Informationen:</p>\r\n' +
-      '<p>Auf Anregung einer Hundeschule in Karlsruhe, welche schwerpunktm&auml;&szlig;ig mit verhaltensgest&ouml;rten Hunden arbeitet, wurde NEKTON-Keep-Cool entwickelt.<br />Diese innovative Neuentwicklung sorgt mittels einer gelungen Kombination der nat&uuml;rlichen Inhaltsstoffe daf&uuml;r, dass Hunde und Katzen mit sogenannten Verhaltensst&ouml;rungen, leichter in Ruhe finden und eine entspanntere Grundhaltung einnehmen k&ouml;nnen.&nbsp;<br />Im ersten Schritt sollte ein Tierarzt feststellen, dass die Symptome nicht in einer ernsten k&ouml;rperlichen Erkrankung begr&uuml;ndet sind.<br />NEKTON-Keep-Cool ist kein Medikament, es hat keine bet&auml;ubende oder angsthemmende Wirkung. NEKTON-Keep-Cool unterst&uuml;tzt den Organismus des Tieres mit Hilfe der enthaltenen hochwirksamen Substanzen, Stress-Situationen ruhiger zu erleben. Es ver&auml;ndert nicht die Pers&ouml;nlichkeit des Tieres!</p>\r\n' +
-      '<p>Dieses Pr&auml;parat soll es Hunden und Katzen erm&ouml;glichen, die be&auml;ngstigenden oder stressigen Situationen ruhiger zu bew&auml;ltigen und empf&auml;nglich f&uuml;r Ansprache und Training zu werden. Au&szlig;erdem kann es helfen aggressives Verhalten zu minimieren.&nbsp;<br />Dies kann durchaus ein lange w&auml;hrender Prozess sein, doch es ist sicherlich lohnenswert f&uuml;r Tier und Halter einen entspannten Tagesablauf zu genie&szlig;en. NEKTON-Keep-Cool ist geeignet &uuml;ber einen&nbsp;langen Zeitraum eingenommen zu werden und zeigt seine volle Wirkung nach ca. 4 Wochen.</p>\r\n' +
-      '<p>NEKTON-Keep-Cool ist kein Ersatz f&uuml;r t&auml;glichen Auslauf, Training und Erziehung des Hundes oder der Katze. Ideal ist eine Kombination aus einer professionellen Trainingsbegleitung und dem unterst&uuml;tzenden Pr&auml;parat. &nbsp;</p>\r\n' +
-      '<p><strong>F&uuml;tterungsempfehlung</strong></p>\r\n' +
-      '<p>n der Anfangsphase t&auml;glich:<br />Tiere 1-10 kg&nbsp;&gt; 2,5 g&nbsp;NEKTON-Keep-Cool,<br />Tiere 10-20 kg&nbsp;&gt; 5 g NEKTON-Keep Cool,&nbsp;<br />Tiere 20-45 kg&nbsp;&gt; 7,5 g NEKTON-Keep-Cool,<br />Tiere &uuml;ber 45kg &ndash; 10g NEKTON-Keep-Cool.</p>\r\n' +
-      '<p>Nach 4 Wochen die Dosis halbieren.</p>\r\n' +
-      '<p>Ein gestrichener Messl&ouml;ffel (inliegend) entspricht 1 g NEKTON-Keep-Cool.</p>\r\n' +
-      '<p>Empfehlung: Desinfizieren Sie Trinkgef&auml;&szlig;e und Futterbeh&auml;lter t&auml;glich mit NEKTON-Desi-Plus um eine hygienisch einwandfreie F&uuml;tterung zu gew&auml;hrleisten!</p>\r\n' +
-      '<p>Lagerung: NEKTON-Keep-Cool sollte trocken ohne Sonneneinstrahlung, zwischen 15&deg; und 25&deg;C, gelagert werden.<br />NICHT IM K&Uuml;HLSCHRANK LAGERN !!!</p>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 2320,
-    title: 'Dog Natural Plus Vitalstoffpräparat für Hunde auf natürlicher Basis',
-    link: 'https://www.tropic-shop.de/dog-natural-plus-vitalstoffpraeparat-fuer-hunde-auf-natuerlicher-basis.html',
-    image_link: 'https://www.tropic-shop.de/images/products/733309279012.jpg',
-    price: 8.79,
-    sale_price: null,
-    df_baseprice: 'ab 87,90 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 2320,
-    group_leader: true,
-    description: '<p>NEKTON-Dog Natural plus ist eine v&ouml;llig neue und sinnvolle Erg&auml;nzung in der ausschlie&szlig;lich nat&uuml;rliche Substanzen enthalten sind. Pflanzliche Vitalstoffe, sogenannte &nbsp;&bdquo;sekund&auml;re Pflanzenstoffe&ldquo;, sorgen zus&auml;tzlich zur reinen Nahrungsfunktion f&uuml;r positive Effekte bez&uuml;glich der allgemeinen Vitalit&auml;t oder Fitness, sowie f&uuml;r verdauungs- und verwertungsunterst&uuml;tzende Effekte im Organismus. Die positive Wirkung dieser bioaktiven Substanzen ist bei Tieren und Menschen sehr gut untersucht. NEKTON-Dog Natural plus wird oftmals eingesetzt um Unregelm&auml;&szlig;igkeiten in der Verdauung wie Durchfall oder Verstopfung schonend auszugleichen, als nat&uuml;rlicher Zusatz beim Barfen verwendet und zur Aufwertung der t&auml;glichen Nahrung oder von Fertiggerichten eingesetzt.</p>\r\n' +
-      '<p>F&uuml;tterungsempfehlung:</p>\r\n' +
-      '<div id="ui-accordion-1-panel-0">\r\n' +
-      '<div>\r\n' +
-      '<p>Hunde bis 10 kg - 1 TL, Hunde bis 25 kg - 2 TL, Hunde ab 25 kg - 3 TL, t&auml;glich ins Futter mischen.<br />Empfehlung: Desinfizieren Sie Trinkgef&auml;&szlig;e und Futterbeh&auml;lter t&auml;glich mit NEKTON-Desi-Plus um eine hygienisch einwandfreie F&uuml;tterung zu gew&auml;hrleisten!<br />Lagerung: NEKTON-Natural plus sollte trocken ohne Sonneneinstrahlung, zwischen 15&deg; und 25&deg;C, gelagert werden.<br />NICHT IM K&Uuml;HLSCHRANK LAGERN !!!</p>\r\n' +
-      '<p>Inhaltsstoffe</p>\r\n' +
-      '<p>&nbsp;</p>\r\n' +
-      '<div id="ui-accordion-1-panel-1">\r\n' +
-      '<div>\r\n' +
-      '<p>Zusammensetzung: Bierhefe, Reisst&auml;rke, Karotte, Calciumzitrat, Gerstengras, Leinkuchen, Papayabl&auml;tter,&nbsp;Ascophyllum&nbsp;(Meeresalge), Natriumchlorid, L&ouml;wenzahn, Rote Bete, Raps&ouml;l, Lauch, Spargel.</p>\r\n' +
-      '<p>&nbsp;</p>\r\n' +
-      '<p>Analytische Bestandteile: Rohprotein 10,6 %, Rohfett 2,5 %, Rohfaser 7,6 %, Rohasche 7,8 %, Calcium 1,9 %, Natrium 2,0 %, Phosphor 0,3 %</p>\r\n' +
-      '<p>&nbsp;</p>\r\n' +
-      '<p>Ern&auml;hrungsphysiologische Zusatzstoffe pro kg: ohne Zusatzstoffe</p>\r\n' +
-      '</div>\r\n' +
-      '</div>\r\n' +
-      '<p>&nbsp;</p>\r\n' +
-      '</div>\r\n' +
-      '</div>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 2332,
-    title: 'Dog Natural-BARF Ergänzung zur Rohfleischfütterung von Fleisch und Innereien',
-    link: 'https://www.tropic-shop.de/dog-natural-barf-ergaenzung-zur-rohfleischfuetterung-von-fleisch-und-innereien.html',
-    image_link: 'https://www.tropic-shop.de/images/products/733309276707.jpg',
-    price: 8.99,
-    sale_price: null,
-    df_baseprice: 'ab 74,92 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 2332,
-    group_leader: true,
-    description: '<h4>Nat&uuml;rliche Erg&auml;nzung zur Rohfleischf&uuml;tterung von Fleisch und Innereien</h4>\r\n' +
-      '<p>NEKTON-Natural-BARF ist eine sinnvolle Erg&auml;nzung zur biologisch artgerechten Rohf&uuml;tterung (BARF). NEKTON-Natural-BARF enth&auml;lt s&auml;mtliche Vitamine und Mineralstoffe aus nat&uuml;rlichen Quellen und macht eine einfache Futterration aus rohem Fleisch, Innereien und &Ouml;l zu einer vollwertigen Mahlzeit. Ein hoher Anteil an ausgesuchten Kr&auml;utern f&ouml;rdert die Vitalit&auml;t und einen gesunden Stoffwechsel.</p>\r\n' +
-      '<p>&nbsp;Ohne Zusatz von Zucker und Geschmackstoffen, frei von Gluten und Lactose.</p>\r\n' +
-      '<p>F&uuml;tterungsempfehlung</p>\r\n' +
-      '<p>T&auml;glich 1 Teel&ouml;ffel pro 10 kg K&ouml;rpergewicht unter das Futter mischen. Maximal 6 Teel&ouml;ffel pro Tag.<br />Lagerung: NEKTON-Natural-BARF sollte trocken ohne Sonneneinstrahlung zwischen 15&nbsp;&deg;C und 25 &deg;C gelagert werden.</p>\r\n' +
-      '<p>NICHT IM K&Uuml;HLSCHRANK LAGERN !!!</p>\r\n' +
-      '<p>Inhaltsstoffe</p>\r\n' +
-      '<div id="ui-accordion-1-panel-1">\r\n' +
-      '<div>\r\n' +
-      '<div>\r\n' +
-      '<p>Zusammensetzung: Mineralstoffe, Leinsamen, Karotten, Kalziumzitrat, Hagebutten, Bierhefe, Seealgen (Ascophyllum), L&ouml;wenzahnkraut, Brennnesselbl&auml;tter, pflanzliche Nebenerzeugnisse, Raps&ouml;l.<br />Analytische Bestandteile: Rohprotein 1,8 %, Rohfett 3,5 %, Rohasche 20,4 %, Rohfaser 4,6 %, Calcium 13,0 %, Phosphor 0,2 %, Natrium 5,5 %<br />Ern&auml;hrungsphysiologische Zusatzstoffe pro kg: ohne Zusatzstoffe.</p>\r\n' +
-      '</div>\r\n' +
-      '</div>\r\n' +
-      '</div>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 2336,
-    title: 'Dog Easy-BARF Vitamine und Mineralstoffe zur Rohfleischfütterung von Fleisch',
-    link: 'https://www.tropic-shop.de/dog-easy-barf-vitamine-und-mineralstoffe-zur-rohfleischfuetterung-von-fleisch.html',
-    image_link: 'https://www.tropic-shop.de/images/products/gruppe_easy_barf.jpg',
-    price: 8.99,
-    sale_price: null,
-    df_baseprice: 'ab 74,92 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 2336,
-    group_leader: true,
-    description: '<h4>VITAMINE UND MINERALSTOFFE ZUR ROHFLEISCHF&Uuml;TTERUNG VON FLEISCH</h4>\r\n' +
-      '<p>NEKTON-Easy-BARF ist die sinnvolle Erg&auml;nzung zur biologisch artgerechten Rohf&uuml;tterung (BARF). NEKTON-Easy-BARF bietet auch dem Einsteiger die M&ouml;glichkeit, Hunde bedarfsgerecht mit allen notwendigen Vitaminen, Mineralstoffen und Spurenelementen zu versorgen. NEKTON-Easy-BARF macht eine einfache Futterration aus rohem Fleisch und &Ouml;l zu einer vollwertigen Mahlzeit. Mit einem hohen Anteil an gesunden Kr&auml;utern, nat&uuml;rlichen Vitaminen und Mineralstoffen. Es ist keine zus&auml;tzliche F&uuml;tterung von Innereien oder Knochen n&ouml;tig.</p>\r\n' +
-      '<p>Ohne Zusatz von Zucker und Geschmackstoffen, frei von Gluten und Lactose.</p>\r\n' +
-      '<p>F&uuml;tterungsempfehlung</p>\r\n' +
-      '<p>T&auml;glich 1 leicht geh&auml;ufter Teel&ouml;ffel pro 10&nbsp;kg K&ouml;rpergewicht unter das Futter mischen. Maximal 6 Teel&ouml;ffel pro Tag. Hunde erhalten im Wachstum und w&auml;hrend der Fortpflanzung die doppelte Menge.</p>\r\n' +
-      '<p>Dieses Erg&auml;nzungsfuttermittel darf an Hunde wegen des gegen&uuml;ber Alleinfuttermitteln h&ouml;heren Gehaltes an Vitamin D und Spurenelementen nur bis zu 10 % der Tagesration verf&uuml;ttert werden.</p>\r\n' +
-      '<p>Lagerung: NEKTON-Easy-BARF sollte trocken ohne Sonneneinstrahlung zwischen 15&nbsp;&deg;C und 25 &deg;C gelagert werden.</p>\r\n' +
-      '<p>NICHT IM K&Uuml;HLSCHRANK LAGERN !!!</p>\r\n' +
-      '<p>Inhaltsstoffe</p>\r\n' +
-      '<div id="ui-accordion-1-panel-1">\r\n' +
-      '<div>\r\n' +
-      '<p>Zusammensetzung: Mineralstoffe, pflanzliche Nebenerzeugnisse, Leinsamen, Hagebutten, Karotten, L&ouml;wenzahnkraut, Brennnesselbl&auml;tter, Bierhefe, Lachs&ouml;l.</p>\r\n' +
-      '<p>Analytische Bestandteile: Rohprotein 1,8&nbsp;%, Rohfett 3.6 %, Rohfaser 4,6&nbsp;%, Rohasche 28,1&nbsp;%, Calcium 16,1&nbsp;%, Phosphor 0,1&nbsp;%, Natrium 7,0&nbsp;%</p>\r\n' +
-      '<p>Ern&auml;hrungsphysiologische Zusatzstoffe pro kg: 160.000 IE Vitamin A, 20.000 IE Vitamin D3, 12.000 mg Cholinchlorid, 2.000 mg Vitamin E, 500 mg Niacinamid, 500 mg Calcium-D-Pantothenat, 320 mg Vitamin B6 (Pyridoxinhydrochlorid), 176 mg Vitamin B2 (Riboflavin), 80 mg Vitamin B1, 32 mg Vitamin K3, 9.600 &micro;g Fols&auml;ure, 4.000 &micro;g Biotin, 1.200 &mu;g Vitamin B12, 1.872 mg Eisen (Eisen-(II)-sulfat, Monohydrat), 1.200 mg Zink (Zinksulfat, Monohydrat), 144 mg Mangan (Mangan-(II)-sulfat, Monohydrat), 65 mg Kupfer (Kupfer-(II)-sulfat, Pentahydrat), 31 mg Jod (Calciumjodat, wasserfrei).</p>\r\n' +
-      '</div>\r\n' +
-      '</div>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 2341,
-    title: 'Biotic-Dog Diät-Ergänzungsfuttermittel zur Stabilisierung der Darmflora',
-    link: 'https://www.tropic-shop.de/biotic-dog-diaet-ergaenzungsfuttermittel-zur-stabilisierung-der-darmflora.html',
-    image_link: 'https://www.tropic-shop.de/images/products/0733309274048.jpg',
-    price: 8.29,
-    sale_price: null,
-    df_baseprice: 'ab 207,25 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 2341,
-    group_leader: true,
-    description: '<h4>Probiotikum f&uuml;r Hunde</h4>\r\n' +
-      '<p>NEKTON-Biotic-Dog ist ein probiotisches Di&auml;t-Erg&auml;nzungsfuttermittel zur Stabilisierung der Darmflora bei Hunden. Die enthaltenen Milchs&auml;ure bildenden Bakterien, die auch nat&uuml;rlicherweise in der Darmwand von Hunden vorkommen, beg&uuml;nstigen dort eine gesunde Verdauung der Nahrung. Nat&uuml;rliche Mannan-Oligosaccharide und Fructane f&ouml;rdern durch ihre pr&auml;biotische Wirkung eine positive Zusammensetzung der Darmflora. Wertvolle pflanzliche Inhaltstoffe wie Reisst&auml;rke und L&ouml;wenzahn erleichtern die Verdauung auf eine sanfte Art, und tragen zur Beruhigung des Darms bei. Ideal bei Verdauungsst&ouml;rungen und zur Regeneration nach Krankheit oder Antibiotika-Behandlungen. Die probiotischen Substanzen in NEKTON-Biotic-Dog steigern zudem nachweislich die k&ouml;rpereigenen Abwehrkr&auml;fte.</p>\r\n' +
-      '<p>F&uuml;tterungsempfehlung</p>\r\n' +
-      '<p>T&auml;glich ein gestrichener Messl&ouml;ffel (1 g) NEKTON-Biotic-Dog pro 5 kg K&ouml;rpergewicht. Maximal 6 g pro Tag. Zur&nbsp; L&ouml;sung von Verdauungsst&ouml;rungen &uuml;ber einen Zeitraum von 10-15 Tagen oder l&auml;nger verabreichen. Es wird empfohlen, vor der Verwendung oder Verl&auml;ngerung der F&uuml;tterungsdauer den Rat eines Tierarztes einzuholen. Kann auch zur Unterst&uuml;tzung w&auml;hrend der Zucht gegeben werden. Die empfohlene Menge NEKTON-Biotic-Dog unter das Futter mischen. Trockenfutter kann zur besseren Aufnahme vorher leicht mit Wasser angespr&uuml;ht werden.&nbsp;<br />NEKTON-Biotic-Dog kann sehr gut mit anderen NEKTON-Produkten f&uuml;r Hunde kombiniert werden.<br />Lagerung: NEKTON-Biotic-Dog sollte trocken ohne Sonneneinstrahlung, zwischen 15&deg; und 25&deg; C, gelagert werden.<br />NICHT IM K&Uuml;HLSCHRANK LAGERN !!!</p>\r\n' +
-      '<p>Inhaltsstoffe</p>\r\n' +
-      '<p>Zusammensetzung: Reisst&auml;rke, pflanzliche Nebenerzeugnisse, Hefe-Zellw&auml;nde (enth&auml;lt Mannan-Oligosaccharide mit pr&auml;biotischer Wirkung), L&ouml;wenzahnbl&auml;tter, Bierhefe.<br />Analytische Bestandteile: Rohprotein 17,0 %, Rohfett 4,5 %, Rohfaser 4,5 %, Rohasche 3,6 %.<br />Zootechnischer Zusatzstoff: Enterococcus faecium DSM 10663/NCIMB 10415&nbsp; 3,5 * 1011 KBE/kg</p>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 2345,
-    title: 'Dog-H Vitaminpräparat zur Verbesserung von Haut und Fell ',
-    link: 'https://www.tropic-shop.de/dog-h-vitaminpraeparat-zur-verbesserung-von-haut-und-fell.html',
-    image_link: 'https://www.tropic-shop.de/images/products/733309273027.jpg',
-    price: 4.79,
-    sale_price: null,
-    df_baseprice: 'ab 159,67 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 2345,
-    group_leader: true,
-    description: '<h4>Vitaminpr&auml;parat zur Verbesserung von Haut und Fell f&uuml;r alle Hunde</h4>\r\n' +
-      '<p>NEKTON-Dog-H ist ein Vitaminpr&auml;parat, welches alle f&uuml;r den Hundeorganismus notwendigen Vitamine und zus&auml;tzlich einen stark erh&ouml;hten Anteil an Biotin, - ca. 2 Millionen &micro;g/kg, enth&auml;lt. NEKTON-Dog-H sorgt f&uuml;r sch&ouml;nes gl&auml;nzendes Fell und hervorragende Haarbildung. NEKTON-Dog-H ist hochwirksam gegen struppiges, spr&ouml;des Fell, unnat&uuml;rlich helle Flecken oder Hautver&auml;nderungen.&nbsp;<br />Biotin ist an einer Vielzahl wichtiger Stoffwechselreaktionen beteiligt und unterst&uuml;tzt das Wachstum, die Futterverwertung sowie die Fortpflanzung des Hundes. Eine der wesentlichsten Funktionen des Biotins ist jedoch seine starke Einflussnahme auf die Haut und die Haare des Hundes.<br />W&auml;hrend der Anwendung von NEKTON-Dog-H sollten keine weiteren Vitaminpr&auml;parate verabreicht werden.</p>\r\n' +
-      '<p>F&uuml;tterungsempfehlung:</p>\r\n' +
-      '<div id="ui-accordion-1-panel-0">\r\n' +
-      '<div>\r\n' +
-      '<div>\r\n' +
-      '<p>Nach K&ouml;rpergewicht: Hunde&nbsp;0-5 kg&nbsp;&gt; 0,5 g NEKTON-Dog-H jeden zweiten Tag,<br />Hunde 5-10 kg&nbsp;&gt; 0,5 g NEKTON-Dog-H t&auml;glich,<br />Hunde 10-15 kg&nbsp;&gt; 0,75 g NEKTON-Dog-H t&auml;glich,&nbsp;<br />bei h&ouml;herem K&ouml;rpergewicht&nbsp;erh&ouml;ht sich die Dosis entsprechend.<br />Ein gestrichener Messl&ouml;ffel (inliegend) entspricht 1 g NEKTON-Dog-H.<br />Empfehlung: Desinfizieren Sie Trinkgef&auml;&szlig;e und Futterbeh&auml;lter t&auml;glich mit NEKTON-Desi-Plus um eine hygienisch einwandfreie F&uuml;tterung zu gew&auml;hrleisten!<br />Lagerung: NEKTON-Dog-H sollte trocken ohne Sonneneinstrahlung, zwischen 15&deg; und 25&deg;C, gelagert werden.<br />NICHT IM K&Uuml;HLSCHRANK LAGERN !!!</p>\r\n' +
-      '<p>Inhaltsstoffe:</p>\r\n' +
-      '<div id="ui-accordion-1-panel-1">\r\n' +
-      '<div>\r\n' +
-      '<div>\r\n' +
-      '<p>Zusammensetzung: Dextrose, Calciumcarbonat, Kiesels&auml;ure, Magnesiumcarbonat<br />Analytische Bestandteile: Rohprotein 0,2%, Rohfett 0,02%, Rohfaser 0,1%, Rohasche 4%, Ca 1,1 %<br />Ern&auml;hrungsphysiologische Zusatzstoffe pro kg: 1.350.500 I.E. Vitamin A, 69.000 I.E. Vitamin D3, 220 mg Vitamin B1 (Thiaminhydrochlorid), 310 mg Vitamin B2 (Riboflavin),10.400 mg Vitamin E (DL-Alpha-Tocopherolacetat), 1.972.000 &micro;g Biotin, 1.160 mg Pantothens&auml;ure (Calcium-D-Pantothenat), 2.150 mg Niacinamid, 300 mg Vitamin B6 (Pyridoxinhydrochlorid), 220 mg Vitamin K3 (Menadion-Natriumbisulfit), 50 mg Fols&auml;ure, 5.400 &micro;g Vitamin B12, 29.630 mg Cholinchlorid</p>\r\n' +
-      '</div>\r\n' +
-      '</div>\r\n' +
-      '</div>\r\n' +
-      '</div>\r\n' +
-      '</div>\r\n' +
-      '</div>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 2450,
-    title: 'Dog-VM Hochwertiges Vitamin- und Mineralstoffpräparat für alle Hunderassen',
-    link: 'https://www.tropic-shop.de/dog-vm-hochwertiges-vitamin-und-mineralstoffpraeparat-fuer-alle-hunderassen.html',
-    image_link: 'https://www.tropic-shop.de/images/products/733309277025.jpg',
-    price: 3.49,
-    sale_price: null,
-    df_baseprice: '',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 2450,
-    group_leader: true,
-    description: '<h4>ochwertiges Vitamin- und Mineralstoffpr&auml;parat f&uuml;r alle Hunderassen</h4>\r\n' +
-      '<p>Sowohl Vitamine, als auch Mineralstoffe und Spurenelemente z&auml;hlen zu den essentiellen - also f&uuml;r den Hundeorganismus lebensnotwendigen Wirkstoffen - die vom Organismus nicht, oder nicht in ausreichender Menge gebildet werden k&ouml;nnen. Sie m&uuml;ssen deshalb stets &uuml;ber das Futter angeboten werden.</p>\r\n' +
-      '<p>S&auml;mtliche Inhaltsstoffe, die in NEKTON-Dog-VM enthalten sind, wurden speziell auf die Bed&uuml;rfnisse des Hundes abgestimmt. NEKTON-Dog-VM sch&uuml;tzt vor ern&auml;hrungsbedingten M&auml;ngeln und unterst&uuml;tzt einen geregelten Stoffwechsel.<br />Ein hochwirksames Basispr&auml;parat f&uuml;r eine optimale Vitamin- und Mineralstoffversorgung des Hundes. W&auml;hrend der Anwendung von NEKTON-Dog-VM sollten keine weiteren Vitaminpr&auml;parate verabreicht werden.</p>\r\n' +
-      '<p>F&uuml;tterungsempfehlung:</p>\r\n' +
-      '<p>Nach K&ouml;rpergewicht: Hunde 0-5 kg &gt; 0,5 g NEKTON-Dog-VM jeden zweiten Tag,<br />Hunde 5-10 kg&nbsp;&gt; 0,5 g NEKTON-Dog-VM t&auml;glich,<br />Hunde 10-15 kg&nbsp;&gt; 0,75 g NEKTON-Dog-VM t&auml;glich.<br />Bei h&ouml;herem K&ouml;rpergewicht&nbsp;erh&ouml;ht sich die Dosis entsprechend.<br />&Auml;ltere Hunde&nbsp;und Junghunde im Wachstum ben&ouml;tigen die eineinhalbfache Dosis.<br />Ein gestrichener Messl&ouml;ffel (inliegend) entspricht 1 g NEKTON-Dog-VM.<br />Empfehlung: Desinfizieren Sie Trinkgef&auml;&szlig;e und Futterbeh&auml;lter t&auml;glich mit NEKTON-Desi-Plus um eine hygienisch einwandfreie F&uuml;tterung zu gew&auml;hrleisten!<br />Lagerung: NEKTON-Dog-VM sollte trocken ohne Sonneneinstrahlung, zwischen 15&deg; und 25&deg;C, gelagert werden.<br />NICHT IM K&Uuml;HLSCHRANK LAGERN !!!</p>\r\n' +
-      '<p>Inhaltsstoffe:</p>\r\n' +
-      '<p>&nbsp;</p>\r\n' +
-      '<div id="ui-accordion-1-panel-1">\r\n' +
-      '<div>\r\n' +
-      '<div>\r\n' +
-      '<p>Zusammensetzung: Dicalciumphosphat, Natriumchlorid, Calciumcarbonat, Kaliumchlorid, Magnesiumcarbonat, Kiesels&auml;ure<br />Analytische Bestandteile: Rohprotein 0,02 %, Rohfett 0,1 %, Rohfaser 0,1 %, Rohasche 80 %, Ca 18 %, P 8 %, Na 8,5%<br />Ern&auml;hrungsphysiologische Zusatzstoffe pro kg: 1.500.000 I.E. Vitamin A, 115.000 I.E. Vitamin D3, 260 mg Vitamin B1 (Thiaminhydrochlorid), 420 mg Vitamin B2 (Riboflavin),12.150 mg Vitamin E (DL-Alpha-Tocopherolacetat), 25.200 &micro;g Biotin, 2.520 mg Pantothens&auml;ure (Calcium-D-Pantothenat), 2.555 mg Niacinamid, 350 mg Vitamin B6 (Pyridoxinhydrochlorid), 260 mg Vitamin K3 (Menadion-Natriumbisulfit),60 mg Fols&auml;ure, 6.300 &micro;g Vitamin B12, 47.500 mg Cholinchlorid, 320 mg Mangan (Mangan-II-sulfat), 3.170 mg Zink (Zinksulfat), 250 mg Kupfer (Kupfer-II-sulfat), 2.470 mg Eisen (Eisen-II-sulfat), 62 mg Jod (Calciumjodat)</p>\r\n' +
-      '</div>\r\n' +
-      '</div>\r\n' +
-      '</div>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 6019,
-    title: 'Nekton Dog Chlorella: Natürliche Kraftquelle für Ihren Vierbeiner',
-    link: 'https://www.tropic-shop.de/nekton-dog-chlorella-natuerliche-kraftquelle-fuer-ihren-vierbeiner.html',
-    image_link: 'https://www.tropic-shop.de/images/products/0733309278909.jpg',
-    price: 8.98,
-    sale_price: null,
-    df_baseprice: 'ab 199,56 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 6019,
-    group_leader: true,
-    description: '<h1>Nekton Dog Chlorella: Der nat&uuml;rliche Boost f&uuml;r Ihren Vierbeiner!</h1>\r\n' +
-      '<p>Beginnen Sie mit einer nat&uuml;rlichen Kraftquelle f&uuml;r Ihren Vierbeiner, die nicht nur die allgemeine Gesundheit f&ouml;rdert, sondern auch spezifische Vorteile f&uuml;r Haut, Fell, Gelenke und Verdauung bietet. Nekton Dog Chlorella ist mehr als nur ein Hundeerg&auml;nzungsmittel; es ist die Gr&uuml;ne Alge, die Ihren Hund von innen heraus strahlen l&auml;sst.</p>\r\n' +
-      '<p>Nekton Dog Chlorella basiert auf der Kraft der Chlorella-Alge, einer bekannten und gesch&auml;tzten Mikroalge, die seit Milliarden von Jahren existiert. Ihre einzigartige N&auml;hrstoffdichte, reich an Vitaminen, Mineralstoffen und essentiellen Aminos&auml;uren, macht sie zu einer unschlagbaren nat&uuml;rlichen Quelle f&uuml;r die Gesundheit und Vitalit&auml;t Ihres Hundes.</p>\r\n' +
-      '<h2>Fell und Haut:</h2>\r\n' +
-      '<p>Lassen Sie Ihr Haustier mit einem gl&auml;nzenden und gesunden Fell strahlen. Dank Vitamin A, Vitamin C und der Unterst&uuml;tzung der Kollagensynthese f&ouml;rdert Chlorella die Haut- und Fellgesundheit.</p>\r\n' +
-      '<h2>Verdauung:</h2>\r\n' +
-      '<p>Sorgen Sie f&uuml;r eine ausgewogene Darmflora und eine verbesserte N&auml;hrstoffaufnahme durch die Ballaststoffe in Chlorella.</p>\r\n' +
-      '<h2>Entgiftung:</h2>\r\n' +
-      '<p>Sch&uuml;tzen Sie Ihren Vierbeiner vor Schadstoffen und Schwermetallen durch die einzigartige entgiftende Wirkung von Chlorella.</p>\r\n' +
-      '<h2>Geruchsneutralisierung:</h2>\r\n' +
-      '<p>Verringern Sie ern&auml;hrungsbedingte Ger&uuml;che und f&ouml;rdern Sie einen frischen Atem bei Ihrem Hund.</p>\r\n' +
-      '<h2>Gelenkgesundheit und Mobilit&auml;t:</h2>\r\n' +
-      '<p>Verbessern Sie die Lebensqualit&auml;t Ihres Hundes, indem Sie Entz&uuml;ndungen und Gelenkschmerzen lindern.</p>\r\n' +
-      '<p>Nekton Dog Chlorella ist ein sorgf&auml;ltig hergestelltes Produkt, das in drei verschiedenen Gr&ouml;&szlig;en erh&auml;ltlich ist: 45 g, 90 g und 200 g. Die genaue Dosierungsanleitung finden Sie auf der Verpackung, um eine optimale Erg&auml;nzung sicherzustellen.</p>\r\n' +
-      '<h2>Fazit:</h2>\r\n' +
-      '<p>Geben Sie Ihrem besten Freund mit Nekton Dog Chlorella das Beste aus der Natur. Ein kleiner Zusatz mit gro&szlig;en Vorteilen.</p>\r\n' +
-      '<p>&nbsp;</p>\r\n' +
-      '<p><strong>Zusammensetzung:</strong> Chlorella</p>\r\n' +
-      '<h2>F&uuml;tterungsempfehlung:</h2>\r\n' +
-      '<p>Um m&ouml;gliche Nebenwirkungen zu minimieren oder zu vermeiden, wird empfohlen, die richtige Dosierung zu w&auml;hlen, Chlorella langsam anzuf&uuml;ttern und die Dosis schrittweise &uuml;ber den Verlauf der ersten Woche zu erh&ouml;hen. Chlorella wird in meisten F&auml;llen in Form einer Kur (4 bis 12 Wochen) angewandt. Am Ende der Kur soll die Dosis genauso langsam verringert werden.</p>\r\n' +
-      '<ul>\r\n' +
-      '<li>Kleine Hunde (bis 10 kg): 0,8 g bis 1,2 g =1 - 1,5 geh&auml;ufte Messl&ouml;ffel</li>\r\n' +
-      '<li>Mittelgro&szlig;e Hunde (10 - 25 kg): 1,2 g bis 2,4 g = 1,5 - 3 geh&auml;ufte Messl&ouml;ffel</li>\r\n' +
-      '<li>Gro&szlig;e Hunde (25-40 kg): 2,4 mg bis 4,8 g = 3 - 6 geh&auml;ufte Messl&ouml;ffel</li>\r\n' +
-      '<li>Hunde &uuml;ber 40 kg: 4,8 g bis 9,6 g = 6 - 12 geh&auml;ufte Messl&ouml;ffel pro Tag</li>\r\n' +
-      '</ul>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  },
-  {
-    id: 6045,
-    title: 'NEKTON Dog Move Power - Natürliche Gelenkunterstützung für Ihren Hund mit Grünlippmuschelpulver',
-    link: 'https://www.tropic-shop.de/nekton-dog-move-power-natuerliche-gelenkunterstuetzung-fuer-ihren-hund-mit-gruenlippmuschelpulver.html',
-    image_link: 'https://www.tropic-shop.de/images/products/0733309280117.jpg',
-    price: 8.99,
-    sale_price: null,
-    df_baseprice: 'ab 299,67 € / 1 kg',
-    categories: [ 'Hund > Ernährung > Vitamine & Mineralstoffe' ],
-    group_id: 6045,
-    group_leader: true,
-    description: '<h1>NEKTON Dog Move Power - Nat&uuml;rliche Gelenkunterst&uuml;tzung f&uuml;r Ihren Hund</h1>\r\n' +
-      '<p><strong>NEKTON-Dog Move Power</strong> ist eine hochwertige Erg&auml;nzung f&uuml;r die Gelenkgesundheit Ihres Hundes, die vollst&auml;ndig aus Gr&uuml;nlippmuschel besteht &ndash; einem Naturprodukt, das reich an essentiellen N&auml;hrstoffen ist. Diese Muschelart, beheimatet in den Gew&auml;ssern Neuseelands, ist nicht nur f&uuml;r ihren Geschmack bekannt, sondern auch f&uuml;r ihre positiven Effekte auf die k&ouml;rperliche Verfassung von Tieren.</p>\r\n' +
-      '<p>Das Pulver enth&auml;lt Glukosaminoglykane, die f&uuml;r die Funktion und die Beschaffenheit der Gelenkfl&uuml;ssigkeit essentiell sind, was eine reibungslose Bewegung der Gelenke erm&ouml;glicht. Dar&uuml;ber hinaus sind <strong>Omega-3-Fetts&auml;uren</strong> enthalten, die Entz&uuml;ndungen reduzieren und das Fell gesund halten k&ouml;nnen. <strong>Proteine und Aminos&auml;uren</strong> unterst&uuml;tzen den Muskelaufbau und die Gewebereparatur, w&auml;hrend Calcium und Magnesium f&uuml;r starke Knochen und Muskelentspannung sorgen.</p>\r\n' +
-      '<p>NEKTON-Dog Move Power ist besonders empfehlenswert f&uuml;r Hunde mit Gelenkerkrankungen, angeborenen Gelenkproblemen, hoher k&ouml;rperlicher Aktivit&auml;t, gro&szlig;en Rassen oder &auml;lteren Hunden. Dieses Erg&auml;nzungsmittel ist eine pr&auml;ventive Ma&szlig;nahme, die auch ohne akute Beschwerden angewendet werden kann, um die Gesundheit und das Wohlbefinden Ihres Hundes langfristig zu unterst&uuml;tzen. Erh&auml;ltlich in verschiedenen Gr&ouml;&szlig;en, ist es einfach zu dosieren und kann problemlos dem Futter beigemischt werden. Mit NEKTON-Dog Move Power geben Sie Ihrem Hund die Kraft f&uuml;r mehr Beweglichkeit und Lebensfreude.</p>\r\n' +
-      '<p><strong>Zusammensetzung:</strong></p>\r\n' +
-      '<p>Gr&uuml;nlippmuschel 100 % Gr&uuml;nlippmuschelpulver ist vollwertig und nichtentfettet, wodurch es die charakteristischen Bestandteile des Naturprodukts beibeh&auml;lt.</p>\r\n' +
-      '<p><strong>F&uuml;tterungsempfehlung:</strong></p>\r\n' +
-      '<p>NEKTON-Dog-Move Power wird in der Regel mehrmals im Jahr als achtw&ouml;chige Kur angewendet.</p>\r\n' +
-      '<p>Das Produkt kann einfach unter das Hundefutter gemischt oder in eine Scheibe Wurst oder K&auml;se eingerollt werden.</p>\r\n' +
-      '<ul>\r\n' +
-      '<li>Kleine Hunde (bis 10 kg): 0,5 g</li>\r\n' +
-      '<li>Mittelgro&szlig;e Hunde (10 - 30 kg): 0,5 bis 1,5 g</li>\r\n' +
-      '<li>Gro&szlig;e Hunde (30 - 40 kg): 1,5 g bis 2 g</li>\r\n' +
-      '<li>Hunde &uuml;ber 40 kg: 2 g bis 4 g</li>\r\n' +
-      '</ul>\r\n' +
-      '<p><strong>Ein geh&auml;ufter Messl&ouml;ffel (inliegend) entspricht 1 g NEKTON-Dog-Move Power</strong></p>',
-    availability: 'in stock',
-    Condition: 'New',
-    model_number: '',
-    brand: 'Nekton',
-    mpn: '',
-    gtin: '',
-    df_manual_boost: 1,
-    additionalFields: null
-  }
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+    {
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+    {
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+    {
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+    {
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+    {
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+    {
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+    {
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+    {
+        "id": 1921,
+        "title": "Econlux Cover f\u00fcr Eheim - L\u00e4nge: 100cm",
+        "link": "https:\/\/www.tropic-shop.de\/econlux-cover-fuer-eheim.html?vari=00011571",
+        "image_link": "https:\/\/www.tropic-shop.de\/images\/products\/vp8186.jpg",
+        "price": 30.23,
+        "sale_price": null,
+        "df_baseprice": "",
+        "categories": [
+            "Aquaristik > Beleuchtung > Aquarien Abdeckungen"
+        ],
+        "group_id": 1918,
+        "group_leader": false,
+        "description": "<ul>\r\n<li>Vollst&auml;ndig kompatibel mit dem bestehenden System<\/li>\r\n<li>Abdeckung und Rahmen k&ouml;nnen weiter verwendet werden<\/li>\r\n<li>Optimale Ausleuchtung<\/li>\r\n<li>Hochwertiges, schwarz eloxiertes Aluminium<\/li>\r\n<li>Passend f&uuml;r das gesamte SunStrip-Programm<\/li>\r\n<\/ul>\r\n<p><br \/>Geeignet f&uuml;r:<\/p>\r\n<ul>\r\n<li>Eheim Scubaline 200<\/li>\r\n<li>Eheim Vivaline 180<\/li>\r\n<li>Eheim Scubaline 250 marine<\/li>\r\n<\/ul>",
+        "availability": "out of stock",
+        "Condition": "New",
+        "model_number": "00011571",
+        "brand": "Econlux",
+        "mpn": "",
+        "gtin": "4260142861990",
+        "df_manual_boost": 1,
+        "additionalFields": null,
+        "L\u00e4nge": "100cm"
+    },
+  
 ]
