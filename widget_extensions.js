@@ -2,7 +2,7 @@
 
 //confetti Test
 
-export const extension2 ={
+const extension2 ={
     name: "extension2",
     type: "effect",
     match: ({trace })=> trace.type === "extension2" || trace.payload === "extension2",
@@ -21,7 +21,7 @@ export const extension2 ={
   };
 
 //Generate PDF function
-export const genPDF = {
+const genPDF = {
         name: "genPDF",
         type: "effect",
         match: ({}) => trace.type === "genPDF" || trace.payload === "genPDF",
