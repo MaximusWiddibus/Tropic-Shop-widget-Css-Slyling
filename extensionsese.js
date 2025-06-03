@@ -50,4 +50,4 @@ const genPDF = {
 }
 
 
-export { extension2, genPDF, injectInfoText() };
+export { extension2, genPDF, injectInfoText };
