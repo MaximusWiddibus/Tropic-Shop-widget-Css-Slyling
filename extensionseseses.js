@@ -38,7 +38,7 @@ const genPDF = {
 
 
 
-const InfoTextExtension = {
+const InfoText = {
   name: 'InfoText',
   type: 'response',
   match: ({ trace }) =>
@@ -58,4 +58,4 @@ const InfoTextExtension = {
 
 
 
-export { extension2, genPDF, InfoTextExtension };
+export { extension2, genPDF, InfoText};
