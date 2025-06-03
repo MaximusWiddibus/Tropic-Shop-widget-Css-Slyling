@@ -41,7 +41,7 @@ const genPDF = {
 const InfoText = {
   name: 'InfoText',
   type: 'response',
-  match: ({ trace } = {}) => trace?.type === 'InfoText' || trace?.payload === 'InfoText',
+  match: ({ trace } = {}) => trace?.type === 'InfoText' || trace?.payload?.name === 'InfoText',
   render: ({ element }) => {
     const target = document.querySelector('.jsli361.jsli363');
     
