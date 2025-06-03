@@ -50,6 +50,16 @@ const InfoText = {
         <span style="font-weight:bold; font-family: Arial;">Info:</span>
         <span style="font-weight:normal; font-family:'Open Sans';"> Alle Angaben sind Unverbindlich |</span>
       `;
+        const canvas = document.querySelector('#confetti-canvas')
+
+      var myConfetti = confetti.create(canvas,{
+        resize: true,
+        useWorker: true,
+      })
+      myConfetti({
+        particleCount: 200,
+        spread: 160,
+      })
     }
   },
 };
