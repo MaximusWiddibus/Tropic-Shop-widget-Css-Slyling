@@ -24,7 +24,7 @@ const extension2 ={
 const genPDF = {
         name: "genPDF",
         type: "effect",
-        match: ({}) => trace.type === "genPDF"
+        match: ({}) => trace.type === "genPDF",
         effect: ({}) => {
                   window.generatePDF = async function () {
                     const { jsPDF } = window.jspdf;
