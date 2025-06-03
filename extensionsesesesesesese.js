@@ -38,33 +38,9 @@ const genPDF = {
 
 
 
-const InfoText = {
-  name: 'InfoText',
-  type: 'effect',
-  match: ({ trace } = {}) => trace?.type === 'InfoText' || trace?.payload?.name === 'InfoText',
-  effect: ({}) => {
-    const target = document.querySelector('.jsli361.jsli363');
-    
-    if (target) {
-      target.innerHTML = `
-        <span style="font-weight:bold; font-family: Arial;">Info:</span>
-        <span style="font-weight:normal; font-family:'Open Sans';"> Alle Angaben sind Unverbindlich |</span>
-      `;
-        const canvas = document.querySelector('#confetti-canvas')
-
-      var myConfetti = confetti.create(canvas,{
-        resize: true,
-        useWorker: true,
-      })
-      myConfetti({
-        particleCount: 200,
-        spread: 160,
-      })
-    }
-  },
-};
 
 
 
 
-export { extension2, genPDF, InfoText};
+
+export { extension2, genPDF};
