@@ -5,7 +5,7 @@
 const extension2 ={
     name: "extension2",
     type: "effect",
-    match: ({trace})=> trace.type === "extension2" || trace.payload === "extension2",
+    match: ({trace} = {}) => trace?.type === "extension2" || trace?.payload === "extension2",
     effect: ({})=>  {
       const canvas = document.querySelector('#confetti-canvas')
 
@@ -24,7 +24,7 @@ const extension2 ={
 const genPDF = {
         name: "genPDF",
         type: "effect",
-        match: ({}) => trace.type === "genPDF",
+        match: ({trace} = {}) => trace?.type === "genPDF" || trace?.payload === "genPDF",
         effect: ({}) => {
                   window.generatePDF = async function () {
                     const { jsPDF } = window.jspdf;
