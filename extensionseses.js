@@ -37,17 +37,25 @@ const genPDF = {
     };
 
 
-// infoTextInjector.js
 
- function injectInfoText() {
-  const element = document.querySelector('.jsli361.jsli363');
-  if (element) {
-    element.innerHTML = `
-      <span style="font-weight: bold; font-family: Arial;">Info:</span>
-      <span style="font-weight: normal; font-family: 'Open Sans';"> Alle Angaben sind Unverbindlich |</span>
-    `;
-  }
-}
+const InfoTextExtension = {
+  name: 'InfoText',
+  type: 'response',
+  match: ({ trace }) =>
+    trace.type === 'Custom_InfoText' || trace.payload?.name === 'Custom_InfoText',
+  render: ({ element }) => {
+    const target = document.querySelector('.jsli361.jsli363');
+    
+    if (target) {
+      target.innerHTML = `
+        <span style="font-weight:bold; font-family: Arial;">Info:</span>
+        <span style="font-weight:normal; font-family:'Open Sans';"> Alle Angaben sind Unverbindlich |</span>
+      `;
+    }
+  },
+};
 
 
-export { extension2, genPDF, injectInfoText };
+
+
+export { extension2, genPDF, InfoTextExtension };
