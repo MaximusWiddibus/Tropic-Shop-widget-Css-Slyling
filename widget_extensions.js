@@ -20,7 +20,7 @@ const extension2 ={
     }
   };
 
-//Generate PDF function
+//Generate PDF 
 const genPDF = {
         name: "genPDF",
         type: "effect",
