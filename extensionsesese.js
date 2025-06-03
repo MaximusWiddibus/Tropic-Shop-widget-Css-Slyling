@@ -42,7 +42,7 @@ const InfoTextExtension = {
   name: 'InfoText',
   type: 'response',
   match: ({ trace }) =>
-    trace.type === 'Custom_InfoText' || trace.payload?.name === 'Custom_InfoText',
+    trace.type === 'InfoText' || trace.payload?.name === 'InfoText',
   render: ({ element }) => {
     const target = document.querySelector('.jsli361.jsli363');
     
