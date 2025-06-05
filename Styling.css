@@ -31,9 +31,8 @@
   .vfrc-widget._1wkq7nf0._1wkq7nf2 {
     position: fixed !important;
     bottom: 200px !important;
-    right: -205px !important;
+    right: -129px !important;
     margin: 0 !important;
-    
   }
 }
 
@@ -41,7 +40,7 @@
 
 /*hier die class für die größe*/
   ._1wkq7nf9 {
-  transform: scale(clamp(1.2, 1.5, 1.6)) !important;
+  transform: scale(clamp(1.1, 1.2, 1.3)) !important;
   transform-origin: bottom right;
   
   }
@@ -49,64 +48,14 @@
   .vfrc-widget._1wkq7nf0._1wkq7nf2 {
     position: fixed !important;
     bottom: 200px !important;
-    right: -180px !important;
+    right: -110px !important;
     margin: 0 !important;
     
   }
 }
 
-@media (min-width: 700px) {
 
-/*hier die class für die größe*/
-  ._1wkq7nf9 {
-  transform: scale(clamp(1.2, 1.5, 1.6)) !important;
-  transform-origin: bottom right;
-  
-  }
-  /*hier die class für das verschieben*/
-  .vfrc-widget._1wkq7nf0._1wkq7nf2 {
-    position: fixed !important;
-    bottom: 200px !important;
-    right: -155px !important;
-    margin: 0 !important;
-    
-  }
-}
-@media (min-width: 900px) {
-
-/*hier die class für die größe*/
-  ._1wkq7nf9 {
-  transform: scale(clamp(1.2, 1.5, 1.6)) !important;
-  transform-origin: bottom right;
-  
-  }
-  /*hier die class für das verschieben*/
-  .vfrc-widget._1wkq7nf0._1wkq7nf2 {
-    position: fixed !important;
-    bottom: 200px !important;
-    right: -135px !important;
-    margin: 0 !important;
-    
-  }
-}
 @media (min-width: 1000px) {
-
-/*hier die class für die größe*/
-  ._1wkq7nf9 {
-  transform: scale(clamp(1.2, 1.5, 1.6)) !important;
-  transform-origin: bottom right;
-  
-  }
-  /*hier die class für das verschieben*/
-  .vfrc-widget._1wkq7nf0._1wkq7nf2 {
-    position: fixed !important;
-    bottom: 200px !important;
-    right: -129px !important;
-    margin: 0 !important;
-    
-  }
-}
-@media (min-width: 1051px) {
 
 /*hier die class für die größe*/
   ._1wkq7nf9 {
@@ -123,4 +72,3 @@
     
   }
 }
-
