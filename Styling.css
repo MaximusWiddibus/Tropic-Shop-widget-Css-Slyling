@@ -31,17 +31,11 @@
     margin: 0 !important;
     
   }
-}
-
-
-@media (min-width: 1001px) {
-
-  /*hier die class für das verschieben*/
-  .vfrc-widget._1wkq7nf0._1wkq7nf2 {
-    position: fixed !important;
-    bottom: 0px !important;
-    right: 0px !important;
-    margin: 0 !important;
-    
+      .vfrc-widget._1wkq7nf0._1wkq7nf1{
+    right: 100px !important;
   }
+  ._1xyscpy0{
+    right: -100px !important;
+  }
+
 }
