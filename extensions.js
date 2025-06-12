@@ -43,4 +43,4 @@ const genPDF = {
 
 
 
-export { extension2, genPDF};
+export { confetti, genPDF};
