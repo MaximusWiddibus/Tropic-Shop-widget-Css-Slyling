@@ -2,10 +2,10 @@
 
 //confetti Test
 
-const extension2 ={
-    name: "extension2",
+const confetti ={
+    name: "confetti",
     type: "effect",
-    match: ({trace} = {}) => trace?.type === "extension2" || trace?.payload === "extension2",
+    match: ({trace} = {}) => trace?.type === "confetti" || trace?.payload === "confetti",
     effect: ({})=>  {
       const canvas = document.querySelector('#confetti-canvas')
 
