@@ -59,7 +59,7 @@ const responsePDF = {
         name: "responsePDF",
         type: "effect",
         match: ({trace} = {}) => trace?.type === "responsePDF" || trace?.payload === "responsePDF",
-        effect: ({}) => {
+        effect: ({trace}) => {
                
             
                     window.generatePDF = async function () {
