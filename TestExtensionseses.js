@@ -60,13 +60,26 @@ const responsePDF = {
         type: "effect",
         match: ({trace} = {}) => trace?.type === "responsePDF" || trace?.payload === "responsePDF",
         effect: ({}) => {
-                    const dialog_select = document.querySelectorAll("._11kfxpge._11kfxpgf._11kfxpgd");  
-                    const lastElement = dialog_select[dialog_select.length - 1];
-                    const dialog = lastElement ? lastElement.textContent.trim() : "Kein Text gefunden.";  // Fallback-Text, falls das Element nicht gefunden wird
+               
             
                     window.generatePDF = async function () {
                     const { jsPDF } = window.jspdf;
                     const doc = new jsPDF();
+
+                    let message = "Standard-PDF-Inhalt";
+
+            try {
+                // Payload ist ein String – versuche, es in ein Objekt umzuwandeln
+                // Ersetze test: durch "test": falls nötig (Quickfix)
+                const rawPayload = trace.payload;
+                const fixedJSON = rawPayload.replace(/(\w+):/g, '"$1":'); // macht test → "test"
+
+                const payloadObj = JSON.parse(fixedJSON);
+                message = payloadObj.test || message;
+            } catch (err) {
+                console.warn("Fehler beim Parsen des Payloads:", err);
+            }
+                    
                     doc.text(trace?.payload, 10, 10);
                     doc.save("response Dialog.pdf");
                 };
