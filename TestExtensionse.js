@@ -40,7 +40,7 @@ const dialogPDF = {
         type: "effect",
         match: ({trace} = {}) => trace?.type === "dialogPDF" || trace?.payload === "dialogPDF",
         effect: ({}) => {
-                    const dialog_select = document.querySelector(".vfrc-chat--dialog.vfrc-chat-dialog.s9t60i6");         
+                    const dialog_select = document.querySelector("._11kfxpge._11kfxpgf._11kfxpgd");         
                     const dialog = dialog_select ? dialog_select.textContent.trim() : "Kein Text gefunden.";  // Fallback-Text, falls das Element nicht gefunden wird
             
                     window.generatePDF = async function () {
