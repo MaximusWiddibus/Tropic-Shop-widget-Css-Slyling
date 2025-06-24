@@ -35,6 +35,23 @@ const genPDF = {
         }
     };
 
+const dialogPDF = {
+        name: "dialogPDF",
+        type: "effect",
+        match: ({trace} = {}) => trace?.type === "dialogPDF" || trace?.payload === "dialogPDF",
+        effect: ({}) => {
+                    const dialog_select = document.querySelector(".vfrc-chat--dialog.vfrc-chat-dialog.s9t60i6");         
+                    const dialog = dialog_select ? dialog_select.textContent.trim() : "Kein Text gefunden.";  // Fallback-Text, falls das Element nicht gefunden wird
+            
+                    window.generatePDF = async function () {
+                    const { jsPDF } = window.jspdf;
+                    const doc = new jsPDF();
+                    doc.text(dialog, 10, 10);
+                    doc.save("Gesamter Dialog.pdf");
+                };
+                 window.generatePDF();
+        }
+    };
 
 
 
@@ -42,4 +59,4 @@ const genPDF = {
 
 
 
-export { confetti, genPDF};
+export { confetti, genPDF,dialogPDF};
