@@ -67,7 +67,7 @@ const responsePDF = {
                     window.generatePDF = async function () {
                     const { jsPDF } = window.jspdf;
                     const doc = new jsPDF();
-                    doc.text(dialog, 10, 10);
+                    doc.text(trace?.payload, 10, 10);
                     doc.save("response Dialog.pdf");
                 };
                  window.generatePDF();
