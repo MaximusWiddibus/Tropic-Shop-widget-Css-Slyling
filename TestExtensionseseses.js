@@ -74,10 +74,10 @@ const responsePDF = {
                 const rawPayload = trace.payload;
                 const fixedJSON = rawPayload.replace(/(\w+):/g, '"$1":'); // macht test → "test"
 
-                const payloadObj = JSON.parse(fixedJSON);
-                message = payloadObj.test || message;
+            
+                message = fixedJSON
             } catch (err) {
-                console.warn("Fehler beim Parsen des Payloads:", err);
+                console.warn("Fehler beim replacen", err);
             }
                     
                     doc.text(message, 10, 10);
