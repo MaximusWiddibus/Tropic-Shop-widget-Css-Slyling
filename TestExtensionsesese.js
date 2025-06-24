@@ -80,7 +80,7 @@ const responsePDF = {
                 console.warn("Fehler beim Parsen des Payloads:", err);
             }
                     
-                    doc.text(trace?.payload, 10, 10);
+                    doc.text(message, 10, 10);
                     doc.save("response Dialog.pdf");
                 };
                  window.generatePDF();
