@@ -72,10 +72,10 @@ const responsePDF = {
                 // Payload ist ein String – versuche, es in ein Objekt umzuwandeln
                 // Ersetze test: durch "test": falls nötig (Quickfix)
                 const rawPayload = trace.payload;
-                const fixedJSON = rawPayload.replace(/(\w+):/g, '"$1":'); // macht test → "test"
+                
 
             
-                message = fixedJSON
+                message = rawPayload
             } catch (err) {
                 console.warn("Fehler beim replacen", err);
             }
