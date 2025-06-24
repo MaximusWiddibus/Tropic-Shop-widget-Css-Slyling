@@ -35,25 +35,6 @@ const genPDF = {
         }
     };
 
-const dialogPDF = {
-        name: "dialogPDF",
-        type: "effect",
-        match: ({trace} = {}) => trace?.type === "dialogPDF" || trace?.payload === "dialogPDF",
-        effect: ({}) => {
-                    const dialog_select = document.querySelectorAll(".vfrc-chat--dialog.vfrc-chat-dialog.s9t60i6");  
-                    const lastElement = dialog_select[dialog_select.length - 1];
-                    const dialog = lastElement ? lastElement.textContent.trim() : "Kein Text gefunden.";  // Fallback-Text, falls das Element nicht gefunden wird
-            
-                    window.generatePDF = async function () {
-                    const { jsPDF } = window.jspdf;
-                    const doc = new jsPDF();
-                    doc.text(dialog, 10, 10);
-                    doc.save("Gesamter Dialog.pdf");
-                };
-                 window.generatePDF();
-        }
-    };
-
 
 const responsePDF = {
         name: "responsePDF",
@@ -67,19 +48,39 @@ const responsePDF = {
                     const doc = new jsPDF();
 
                     let message = "Standard-PDF-Inhalt";
-
             try {
-                // Payload ist ein String – versuche, es in ein Objekt umzuwandeln
-                // Ersetze test: durch "test": falls nötig (Quickfix)
-                const rawPayload = trace.payload;
-                
 
-            
+                const rawPayload = trace.payload;
                 message = rawPayload
             } catch (err) {
                 console.warn("Fehler beim replacen", err);
-            }
-                    
+            }      
+                    doc.text(message, 10, 10);
+                    doc.save("response Dialog.pdf");
+                };
+                 window.generatePDF();
+        }
+    };
+
+const dialogPDF = {
+        name: "dialogPDF",
+        type: "effect",
+        match: ({trace} = {}) => trace?.type === "dialogPDF" || trace?.payload === "dialogPDF",
+        effect: ({trace}) => {
+               
+            
+                    window.generatePDF = async function () {
+                    const { jsPDF } = window.jspdf;
+                    const doc = new jsPDF();
+
+                    let message = "Standard-PDF-Inhalt";
+            try {
+
+                const rawPayload = trace.payload;
+                message = rawPayload
+            } catch (err) {
+                console.warn("Fehler beim replacen", err);
+            }      
                     doc.text(message, 10, 10);
                     doc.save("response Dialog.pdf");
                 };
@@ -91,16 +92,23 @@ const utterancePDF = {
         name: "utterancePDF",
         type: "effect",
         match: ({trace} = {}) => trace?.type === "utterancePDF" || trace?.payload === "utterancePDF",
-        effect: ({}) => {
-                    const dialog_select = document.querySelectorAll("._15emaa41");  
-                    const lastElement = dialog_select[dialog_select.length - 1];
-                    const dialog = lastElement ? lastElement.textContent.trim() : "Kein Text gefunden.";  // Fallback-Text, falls das Element nicht gefunden wird
+        effect: ({trace}) => {
+               
             
                     window.generatePDF = async function () {
                     const { jsPDF } = window.jspdf;
                     const doc = new jsPDF();
-                    doc.text(dialog, 10, 10);
-                    doc.save("utterance Dialog.pdf");
+
+                    let message = "Standard-PDF-Inhalt";
+            try {
+
+                const rawPayload = trace.payload;
+                message = rawPayload
+            } catch (err) {
+                console.warn("Fehler beim replacen", err);
+            }      
+                    doc.text(message, 10, 10);
+                    doc.save("utterance.pdf");
                 };
                  window.generatePDF();
         }
@@ -108,4 +116,5 @@ const utterancePDF = {
 
 
 
-export { confetti, genPDF,dialogPDF,responsePDF,utterancePDF};
+
+export { confetti, genPDF, responsePDF, dialogPDF,utterancePDF};
