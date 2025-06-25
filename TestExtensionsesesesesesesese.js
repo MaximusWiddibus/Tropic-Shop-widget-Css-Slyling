@@ -51,7 +51,7 @@ const responsePDF = {
                 try {
     const rawPayload = trace.payload;
     message = rawPayload;
-   catch(err){
+                } catch(err){
 console.log("Fehler beim speichern",err)
                 };
                 
