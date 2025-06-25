@@ -43,22 +43,28 @@ const responsePDF = {
         effect: ({trace}) => {
                
             
-                    window.generatePDF = async function () {
-                    const { jsPDF } = window.jspdf;
-                    const doc = new jsPDF();
-
-                    let message = "Standard-PDF-Inhalt";
-           try {
-  
-                const rawPayload = trace.payload;
-                const fixedJSON = rawPayload.replace(/(\w+):/g, '"$1":'); 
-
-                const payloadObj = JSON.parse(fixedJSON);
-                message = payloadObj.Tropi || message;
-            } catch (err) {
-                console.warn("Fehler beim replacen", err);
-            }      
-                    doc.text(message, 10, 10);
+            window.generatePDF = async function () {
+            const { jsPDF } = window.jspdf;
+            const doc = new jsPDF();
+    
+            let message = "Standard-PDF-Inhalt";
+                try {
+                let rawPayload = trace.payload;
+        
+                if (typeof rawPayload === "string") {
+                    const parsed = JSON.parse(rawPayload);
+                    message = parsed.assistant || JSON.stringify(parsed);
+                        } else if (typeof rawPayload === "object" && rawPayload.assistant) {
+                        message = rawPayload.assistant;
+                            } else {
+                            message = JSON.stringify(rawPayload);
+                                }
+                                } catch (err) {
+                                    console.warn("Fehler beim Parsen", err);
+                                }     
+                
+                    const messageCorrected= doc.splitTextToSize(message, 180); // Zeilen umbrechen
+                    doc.text(messageCorrected, 10, 10);
                     doc.save("response Dialog.pdf");
                 };
                  window.generatePDF();
