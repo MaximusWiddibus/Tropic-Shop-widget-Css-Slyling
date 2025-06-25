@@ -51,7 +51,9 @@ const responsePDF = {
                 try {
     const rawPayload = trace.payload;
     message = rawPayload;
-   
+   catch(err){
+console.log("Fehler beim speichern",err)
+                };
                 
                     const messageCorrected= doc.splitTextToSize(message, 180); // Zeilen umbrechen
                     doc.text(messageCorrected, 10, 10);
