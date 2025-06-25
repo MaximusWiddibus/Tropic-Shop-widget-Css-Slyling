@@ -48,10 +48,13 @@ const responsePDF = {
                     const doc = new jsPDF();
 
                     let message = "Standard-PDF-Inhalt";
-            try {
-
+           try {
+  
                 const rawPayload = trace.payload;
-                message = rawPayload
+                const fixedJSON = rawPayload.replace(/(\w+):/g, '"$1":'); 
+
+                const payloadObj = JSON.parse(fixedJSON);
+                message = payloadObj.Tropi || message;
             } catch (err) {
                 console.warn("Fehler beim replacen", err);
             }      
