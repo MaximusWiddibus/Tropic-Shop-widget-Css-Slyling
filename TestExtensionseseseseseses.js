@@ -49,19 +49,23 @@ const responsePDF = {
     
             let message = "Standard-PDF-Inhalt";
                 try {
-                let rawPayload = trace.payload;
-        
-                if (typeof rawPayload === "string") {
-                    const parsed = JSON.parse(rawPayload);
-                    message = parsed.assistant || JSON.stringify(parsed);
-                        } else if (typeof rawPayload === "object" && rawPayload.assistant) {
-                        message = rawPayload.assistant;
-                            } else {
-                            message = JSON.stringify(rawPayload);
-                                }
-                                } catch (err) {
-                                    console.warn("Fehler beim Parsen", err);
-                                }     
+    const rawPayload = trace.payload;
+
+    // Falls payload ein JSON-String ist, aber defekt
+    if (typeof rawPayload === "string") {
+        // Versuche den Inhalt zwischen den Quotes nach dem ersten : zu bekommen
+        const match = rawPayload.match(/"[^"]*"\s*:\s*"([\s\S]*)"\s*}/);
+        if (match && match[1]) {
+            message = match[1].replace(/\\"/g, '"'); // Escaped Quotes wieder zurückwandeln
+        } else {
+            message = rawPayload;
+        }
+    } else if (typeof rawPayload === "object") {
+        message = Object.values(rawPayload)[0]; // z. B. payload = { Tropi: "..." }
+    }
+} catch (err) {
+    console.warn("Fehler beim Parsen", err);
+}
                 
                     const messageCorrected= doc.splitTextToSize(message, 180); // Zeilen umbrechen
                     doc.text(messageCorrected, 10, 10);
