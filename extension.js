@@ -25,16 +25,29 @@ const genPDF = {
         name: "genPDF",
         type: "effect",
         match: ({trace} = {}) => trace?.type === "genPDF" || trace?.payload === "genPDF",
-        effect: ({}) => {
-                  window.generatePDF = async function () {
-                    const { jsPDF } = window.jspdf;
-                    const doc = new jsPDF();
-                    doc.text("PDF erstellt über Voiceflow!", 10, 10);
-                    doc.save("voiceflow.pdf");
-                };
-                 window.generatePDF();
+        effect: ({trace}) => {
+            
+            window.generatePDF = async function () {
+            const { jsPDF } = window.jspdf;
+            const doc = new jsPDF();
+    
+            let message = "Es ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.";
+                try {
+                    const rawPayload = trace.payload;
+                    message = rawPayload;
+                    } catch(err){
+                        console.log("Fehler beim speichern",err)
+                        };
+                
+            const messageCorrected= doc.splitTextToSize(message, 180); // Zeilen umbrechen
+            doc.text(messageCorrected, 10, 10);
+            doc.save("response Dialog.pdf");
+            };
+            
+        window.generatePDF();
         }
     };
+
 
 
 
