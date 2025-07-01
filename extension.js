@@ -24,7 +24,7 @@ const confetti ={
 const genPDF = {
         name: "genPDF",
         type: "effect",
-        match: ({trace} = {}) => trace?.type === "genPDF" || trace?.payload === "genPDF",
+        match: ({trace} = {}) => trace?.type === "genPDF" || trace?.payload === "genPDF" || trace?.payload?.name === "genPDF",
         effect: ({trace}) => {
             
             window.generatePDF = async function () {
