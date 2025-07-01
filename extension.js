@@ -41,7 +41,7 @@ const genPDF = {
                 
             const messageCorrected= doc.splitTextToSize(message, 180); // Zeilen umbrechen
             doc.text(messageCorrected, 10, 10);
-            doc.save("response Dialog.pdf");
+            doc.save("Tropic Shop Dialog.pdf");
             };
             
         window.generatePDF();
