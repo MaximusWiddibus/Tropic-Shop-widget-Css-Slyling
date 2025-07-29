@@ -29,11 +29,10 @@ const genPDF = {
             
             window.generatePDF = async function () {
             const { jsPDF } = window.jspdf;
-            const doc = new jsPDF(
-              orientation: "landscape",
+            const doc = new jsPDF({
               unit: "in",
               format: [10, 20]
-            }););
+            });
     
             let message = "Es ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.";
                 try {
